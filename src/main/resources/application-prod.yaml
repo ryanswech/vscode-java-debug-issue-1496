@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: ${prod-db} # data that is environment specific, in the real application there is obviously a bunch of stuff like this
